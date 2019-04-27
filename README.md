@@ -10,5 +10,4 @@
 - [ ] Pagination
 - [ ] Filtering
 - [ ] Sorting
-- [ ] HAL
 - [ ] SSL
